@@ -1,0 +1,33 @@
+*{
+	padding:0;
+	margin:0;
+	font-family: Arial, Helvetica, sans-serif;
+}	
+	
+#all{
+	padding:0 11px 40px 0;
+	margin:auto;
+	border-radius:5px;
+	box-shadow:0 0 10px 1px;
+	width:30%
+}	
+h5{
+	margin-top:30px;
+	padding:20px 50px 10px 20px;
+	color:grey;
+}
+
+p{
+	padding:5px 0px 10px 20px;
+	font-size:32px;
+	width:95%
+}
+img{
+	margin:0 0 0 15px;
+	width:90%;
+	border:3px solid #a9fcfc;
+	border-radius:20px;
+	box-shadow:20px 20px #a9fcfc;
+	
+}	
+	
